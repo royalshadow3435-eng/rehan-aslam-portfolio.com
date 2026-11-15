@@ -1,0 +1,4 @@
+:root{--bg:#1c1d21;--bg2:#25272d;--tx:#f2eee8;--mut:#a4a7b0;--or:#ff6a1f;--bl:#2e7bff;--c3:#7a3cff;--on:#16171a;--ord:#7a2a0a;--bld:#101c4a;--orrgb:255,106,31;--blrgb:46,123,255;--bgrgb:28,29,33;--bg2rgb:37,39,45;--bg0rgb:20,21,24}
+html[data-theme=midnight]{--bg:#0b1226;--bg2:#131c36;--or:#4aa8ff;--bl:#22e3c9;--c3:#8b5cf6;--on:#08101f;--ord:#0f3a66;--bld:#0b5a50;--orrgb:74,168,255;--blrgb:34,227,201;--bgrgb:11,18,38;--bg2rgb:19,28,54;--bg0rgb:7,12,28}
+html[data-theme=purple]{--bg:#1d1b27;--bg2:#272437;--or:#a78bfa;--bl:#f472b6;--c3:#60a5fa;--on:#17142a;--ord:#3b2a78;--bld:#7a2250;--orrgb:167,139,250;--blrgb:244,114,182;--bgrgb:29,27,39;--bg2rgb:39,36,55;--bg0rgb:21,19,30}
+html[data-theme=emerald]{--bg:#0f1a17;--bg2:#16251f;--or:#34d399;--bl:#fbbf24;--c3:#22d3ee;--on:#0a1a14;--ord:#0e5a3f;--bld:#7a5a06;--orrgb:52,211,153;--blrgb:251,191,36;--bgrgb:15,26,23;--bg2rgb:22,37,31;--bg0rgb:10,18,16}

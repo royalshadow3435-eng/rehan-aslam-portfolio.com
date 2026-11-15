@@ -1,0 +1,679 @@
+{
+ "theme": "charcoal",
+ "text": {
+  "g.h1": "Rehan Aslam",
+  "about.1": "My story",
+  "about.2": "It started as a weekend hobby and became the work I love most.",
+  "about.3": "Five years ago I began helping a friend edit his YouTube uploads. I fell in love with storytelling through design, logo work and color grading, and turned it into a full-time career.",
+  "about.4": "My mission",
+  "about.5": "To help creators and brands turn raw, unorganized footage into polished stories that grow their audience.",
+  "about.6": "Milestones",
+  "about.7": "The beginning",
+  "about.8": "Started designing as a hobby",
+  "about.9": "Five years ago I began helping a friend polish his YouTube uploads on weekends, just for fun.",
+  "about.10": "First paid client",
+  "about.11": "Hobby became work",
+  "about.12": "Someone trusted me with their project and paid for it. That's when I knew this could be a real career.",
+  "about.13": "100 designs",
+  "about.14": "Crossed 100 designs",
+  "about.15": "Logos, posters and color grades, each one teaching me more about telling a story visually.",
+  "about.16": "Today",
+  "about.17": "300+ designs, 250+ happy clients",
+  "about.18": "A full-time career and a 4.9 out of 5 average client rating.",
+  "about.19": "Core skills",
+  "about.20": "95%",
+  "about.21": "94%",
+  "about.22": "90%",
+  "about.23": "88%",
+  "about.24": "92%",
+  "about.25": "90%",
+  "about.26": "Let's tell your story",
+  "about.27": "Tell me what you're building and I'll reply within a day.",
+  "about.28": "Contact Me",
+  "g.f1": "Rehan Aslam",
+  "g.f2": "Graphic designer. Stories that hook.",
+  "g.f3": "© 2026 Rehan Aslam. All rights reserved.",
+  "awards.1": "Awards & Achievements",
+  "awards.2": "Recognition from clients, communities and classrooms for creative, professional design work.",
+  "awards.3": "Want results like these?",
+  "awards.4": "Tell me what you're building and I'll reply within a day.",
+  "awards.5": "Contact Me",
+  "contact.1": "Contact",
+  "contact.2": "Have a design project in mind? Let's bring your creative vision to life. Whether you need a professional logo, eye-catching posters, restaurant menus, packaging, brochures, visiting cards, or unlimited monthly graphic design services, I'm ready to help your brand stand out.",
+  "contact.3": "Email",
+  "contact.4": "WhatsApp",
+  "contact.5": "Follow my work",
+  "contact.6": "Response time",
+  "home.stat1": "300",
+  "home.stat2": "250",
+  "home.stat3": "5",
+  "home.stat4": "4.9",
+  "home.1": "Graphic Designer · 5 years",
+  "home.2": "Rehan\nAslam",
+  "home.3": "Turning raw footage into stories that hook.",
+  "home.4": "View My Work",
+  "home.5": "Designs created",
+  "home.6": "Happy clients",
+  "home.7": "Years of experience",
+  "home.8": "Average client rating",
+  "home.9": "What I design",
+  "home.10": "Brand identity",
+  "home.11": "Logos and visual systems that people remember.",
+  "home.12": "Posters and print",
+  "home.13": "Bold layouts built to stop the scroll or the street.",
+  "home.14": "Social and video covers",
+  "home.15": "Thumbnails and posts that earn the first click.",
+  "home.16": "Packaging",
+  "home.17": "Boxes and labels that sell before they open.",
+  "home.18": "Featured work",
+  "home.19": "View Full Portfolio",
+  "home.20": "Kind words",
+  "home.21": "Rehan understood the brand in one call and delivered an identity we still get compliments on.",
+  "home.22": "Sara Khan, Founder, Lumen Coffee",
+  "home.23": "Fast, sharp and easy to work with. Our launch posters outperformed every previous campaign.",
+  "home.24": "Daniel Cruz, Marketing Lead, Northwind",
+  "home.25": "He turns rough ideas into designs that feel finished. Every revision made it better.",
+  "home.26": "Ayesha Malik, Creative Director, Orbit",
+  "home.27": "Lumen Coffee",
+  "home.28": "Northwind",
+  "home.29": "Orbit Fitness",
+  "home.30": "Kiln & Co.",
+  "home.31": "Night Market",
+  "home.32": "Fable Books",
+  "home.33": "Have a project in mind?",
+  "home.34": "Tell me what you're building and I'll reply within a day.",
+  "home.35": "Contact Me",
+  "portfolio.1": "Portfolio",
+  "portfolio.2": "Selected projects across six disciplines. Pick a category or open any project for the details.",
+  "portfolio.3": "Like what you see?",
+  "portfolio.4": "Tell me what you're building and I'll reply within a day.",
+  "portfolio.5": "Contact Me",
+  "portfolio.6": "Start a similar project",
+  "services.1": "Services",
+  "services.2": "Pay per design, or subscribe and design without limits. Every project is made to fit your brand.",
+  "services.3": "Work more. Pay fixed. Design without limits.",
+  "services.4": "Not sure which fits?",
+  "services.5": "Tell me what you need and I'll recommend the best option.",
+  "services.6": "Contact Me"
+ },
+ "textmeta": {
+  "g.h1": {
+   "t": "a",
+   "o": "Rehan Aslam"
+  },
+  "about.1": {
+   "t": "h1",
+   "o": "My story"
+  },
+  "about.2": {
+   "t": "p",
+   "o": "It started as a weekend hobby and became the work "
+  },
+  "about.3": {
+   "t": "p",
+   "o": "Five years ago I began helping a friend edit his Y"
+  },
+  "about.4": {
+   "t": "h3",
+   "o": "My mission"
+  },
+  "about.5": {
+   "t": "p",
+   "o": "To help creators and brands turn raw, unorganized "
+  },
+  "about.6": {
+   "t": "h2",
+   "o": "Milestones"
+  },
+  "about.7": {
+   "t": "small",
+   "o": "The beginning"
+  },
+  "about.8": {
+   "t": "h3",
+   "o": "Started designing as a hobby"
+  },
+  "about.9": {
+   "t": "p",
+   "o": "Five years ago I began helping a friend polish his"
+  },
+  "about.10": {
+   "t": "small",
+   "o": "First paid client"
+  },
+  "about.11": {
+   "t": "h3",
+   "o": "Hobby became work"
+  },
+  "about.12": {
+   "t": "p",
+   "o": "Someone trusted me with their project and paid for"
+  },
+  "about.13": {
+   "t": "small",
+   "o": "100 designs"
+  },
+  "about.14": {
+   "t": "h3",
+   "o": "Crossed 100 designs"
+  },
+  "about.15": {
+   "t": "p",
+   "o": "Logos, posters and color grades, each one teaching"
+  },
+  "about.16": {
+   "t": "small",
+   "o": "Today"
+  },
+  "about.17": {
+   "t": "h3",
+   "o": "300+ designs, 250+ happy clients"
+  },
+  "about.18": {
+   "t": "p",
+   "o": "A full-time career and a 4.9 out of 5 average clie"
+  },
+  "about.19": {
+   "t": "h2",
+   "o": "Core skills"
+  },
+  "about.20": {
+   "t": "span",
+   "o": "95%"
+  },
+  "about.21": {
+   "t": "span",
+   "o": "94%"
+  },
+  "about.22": {
+   "t": "span",
+   "o": "90%"
+  },
+  "about.23": {
+   "t": "span",
+   "o": "88%"
+  },
+  "about.24": {
+   "t": "span",
+   "o": "92%"
+  },
+  "about.25": {
+   "t": "span",
+   "o": "90%"
+  },
+  "about.26": {
+   "t": "h2",
+   "o": "Let's tell your story"
+  },
+  "about.27": {
+   "t": "p",
+   "o": "Tell me what you're building and I'll reply within"
+  },
+  "about.28": {
+   "t": "a",
+   "o": "Contact Me"
+  },
+  "g.f1": {
+   "t": "a",
+   "o": "Rehan Aslam"
+  },
+  "g.f2": {
+   "t": "p",
+   "o": "Graphic designer. Stories that hook."
+  },
+  "g.f3": {
+   "t": "small",
+   "o": "© 2026 Rehan Aslam. All rights reserved."
+  },
+  "awards.1": {
+   "t": "h1",
+   "o": "Awards & Achievements"
+  },
+  "awards.2": {
+   "t": "p",
+   "o": "Recognition from clients, communities and classroo"
+  },
+  "awards.3": {
+   "t": "h2",
+   "o": "Want results like these?"
+  },
+  "awards.4": {
+   "t": "p",
+   "o": "Tell me what you're building and I'll reply within"
+  },
+  "awards.5": {
+   "t": "a",
+   "o": "Contact Me"
+  },
+  "contact.1": {
+   "t": "h1",
+   "o": "Contact"
+  },
+  "contact.2": {
+   "t": "p",
+   "o": "Have a design project in mind? Let's bring your cr"
+  },
+  "contact.3": {
+   "t": "small",
+   "o": "Email"
+  },
+  "contact.4": {
+   "t": "small",
+   "o": "WhatsApp"
+  },
+  "contact.5": {
+   "t": "small",
+   "o": "Follow my work"
+  },
+  "contact.6": {
+   "t": "small",
+   "o": "Response time"
+  },
+  "home.stat1": {
+   "t": "num",
+   "o": "300+"
+  },
+  "home.stat2": {
+   "t": "num",
+   "o": "250+"
+  },
+  "home.stat3": {
+   "t": "num",
+   "o": "5"
+  },
+  "home.stat4": {
+   "t": "num",
+   "o": "4.9/5"
+  },
+  "home.1": {
+   "t": "p",
+   "o": "Graphic Designer · 5 years"
+  },
+  "home.2": {
+   "t": "h1",
+   "o": "Rehan Aslam"
+  },
+  "home.3": {
+   "t": "p",
+   "o": "Turning raw footage into stories that hook."
+  },
+  "home.4": {
+   "t": "a",
+   "o": "View My Work"
+  },
+  "home.5": {
+   "t": "span",
+   "o": "Designs created"
+  },
+  "home.6": {
+   "t": "span",
+   "o": "Happy clients"
+  },
+  "home.7": {
+   "t": "span",
+   "o": "Years of experience"
+  },
+  "home.8": {
+   "t": "span",
+   "o": "Average client rating"
+  },
+  "home.9": {
+   "t": "h2",
+   "o": "What I design"
+  },
+  "home.10": {
+   "t": "h3",
+   "o": "Brand identity"
+  },
+  "home.11": {
+   "t": "p",
+   "o": "Logos and visual systems that people remember."
+  },
+  "home.12": {
+   "t": "h3",
+   "o": "Posters and print"
+  },
+  "home.13": {
+   "t": "p",
+   "o": "Bold layouts built to stop the scroll or the stree"
+  },
+  "home.14": {
+   "t": "h3",
+   "o": "Social and video covers"
+  },
+  "home.15": {
+   "t": "p",
+   "o": "Thumbnails and posts that earn the first click."
+  },
+  "home.16": {
+   "t": "h3",
+   "o": "Packaging"
+  },
+  "home.17": {
+   "t": "p",
+   "o": "Boxes and labels that sell before they open."
+  },
+  "home.18": {
+   "t": "h2",
+   "o": "Featured work"
+  },
+  "home.19": {
+   "t": "a",
+   "o": "View Full Portfolio"
+  },
+  "home.20": {
+   "t": "h2",
+   "o": "Kind words"
+  },
+  "home.21": {
+   "t": "p",
+   "o": "Rehan understood the brand in one call and deliver"
+  },
+  "home.22": {
+   "t": "cite",
+   "o": "Sara Khan, Founder, Lumen Coffee"
+  },
+  "home.23": {
+   "t": "p",
+   "o": "Fast, sharp and easy to work with. Our launch post"
+  },
+  "home.24": {
+   "t": "cite",
+   "o": "Daniel Cruz, Marketing Lead, Northwind"
+  },
+  "home.25": {
+   "t": "p",
+   "o": "He turns rough ideas into designs that feel finish"
+  },
+  "home.26": {
+   "t": "cite",
+   "o": "Ayesha Malik, Creative Director, Orbit"
+  },
+  "home.27": {
+   "t": "span",
+   "o": "Lumen Coffee"
+  },
+  "home.28": {
+   "t": "span",
+   "o": "Northwind"
+  },
+  "home.29": {
+   "t": "span",
+   "o": "Orbit Fitness"
+  },
+  "home.30": {
+   "t": "span",
+   "o": "Kiln & Co."
+  },
+  "home.31": {
+   "t": "span",
+   "o": "Night Market"
+  },
+  "home.32": {
+   "t": "span",
+   "o": "Fable Books"
+  },
+  "home.33": {
+   "t": "h2",
+   "o": "Have a project in mind?"
+  },
+  "home.34": {
+   "t": "p",
+   "o": "Tell me what you're building and I'll reply within"
+  },
+  "home.35": {
+   "t": "a",
+   "o": "Contact Me"
+  },
+  "portfolio.1": {
+   "t": "h1",
+   "o": "Portfolio"
+  },
+  "portfolio.2": {
+   "t": "p",
+   "o": "Selected projects across six disciplines. Pick a c"
+  },
+  "portfolio.3": {
+   "t": "h2",
+   "o": "Like what you see?"
+  },
+  "portfolio.4": {
+   "t": "p",
+   "o": "Tell me what you're building and I'll reply within"
+  },
+  "portfolio.5": {
+   "t": "a",
+   "o": "Contact Me"
+  },
+  "portfolio.6": {
+   "t": "a",
+   "o": "Start a similar project"
+  },
+  "services.1": {
+   "t": "h1",
+   "o": "Services"
+  },
+  "services.2": {
+   "t": "p",
+   "o": "Pay per design, or subscribe and design without li"
+  },
+  "services.3": {
+   "t": "p",
+   "o": "Work more. Pay fixed. Design without limits."
+  },
+  "services.4": {
+   "t": "h2",
+   "o": "Not sure which fits?"
+  },
+  "services.5": {
+   "t": "p",
+   "o": "Tell me what you need and I'll recommend the best "
+  },
+  "services.6": {
+   "t": "a",
+   "o": "Contact Me"
+  }
+ },
+ "images": {
+  "profile": ""
+ },
+ "contact": {
+  "email": "royalshadow3435@gmail.com",
+  "whatsapp": "Available on Request",
+  "instagram": "https://www.instagram.com/",
+  "youtube": "https://www.youtube.com/"
+ },
+ "services": [
+  {
+   "title": "Poster Design",
+   "price": "140",
+   "desc": "Eye-catching posters for businesses, promotions, events, ads and social media campaigns, tailored to your brand.",
+   "icon": "poster",
+   "plan": false,
+   "features": ""
+  },
+  {
+   "title": "Logo Design",
+   "price": "170",
+   "desc": "Unique, modern logos that build a strong brand identity and make your business stand out.",
+   "icon": "logo",
+   "plan": false,
+   "features": ""
+  },
+  {
+   "title": "Menu Design",
+   "price": "150",
+   "desc": "Well-organized restaurant, café and fast-food menus that showcase your products professionally.",
+   "icon": "menu",
+   "plan": false,
+   "features": ""
+  },
+  {
+   "title": "Packaging Design",
+   "price": "80",
+   "desc": "Premium packaging for boxes, labels, wrappers and custom packaging solutions.",
+   "icon": "pack",
+   "plan": false,
+   "features": ""
+  },
+  {
+   "title": "Brochure Design",
+   "price": "100",
+   "desc": "Visually appealing brochures for business promotions, company profiles, catalogs and campaigns.",
+   "icon": "bro",
+   "plan": false,
+   "features": ""
+  },
+  {
+   "title": "Visiting Card Design",
+   "price": "50",
+   "desc": "Elegant business cards that make a strong first impression and represent your brand.",
+   "icon": "card",
+   "plan": false,
+   "features": ""
+  },
+  {
+   "title": "Unlimited Graphic Design Subscription",
+   "price": "750",
+   "desc": "Get unlimited design requests for one fixed monthly payment. Enjoy consistent, high-quality designs for all your business and marketing needs without paying separately for every design.",
+   "icon": "logo",
+   "plan": true,
+   "features": "Fixed monthly payment: one agreed price per month.\nUnlimited designs: request as many as you need.\nAll categories included: posters, logos, menus, packaging, brochures, visiting cards and more.\nProfessional quality: creative, premium, brand-focused work.\nUnlimited revisions: adjustments until you are satisfied.\nNo per-design charges: one payment covers every request."
+  }
+ ],
+ "awards": [
+  {
+   "year": "2024",
+   "title": "Best Graphic Designer Award",
+   "org": "Local business and creative design community",
+   "desc": "Recognizes outstanding creativity, professional design skills and strong visual communication, the qualities clients rely on when they hire me.",
+   "icon": "tro"
+  },
+  {
+   "year": "20XX",
+   "title": "Featured Designer",
+   "org": "A popular graphic design platform or creative community",
+   "desc": "Featured for consistently delivering high-quality designs and creative branding solutions, proof that the work holds up in front of fellow designers.",
+   "icon": "star"
+  },
+  {
+   "year": "20XX",
+   "title": "Guest Speaker",
+   "org": "Local college seminar",
+   "desc": "Invited to talk about graphic design as a career, creative branding and why visual communication matters, and to share what I have learned with students.",
+   "icon": "mic"
+  },
+  {
+   "year": "20XX",
+   "title": "Brand Identity Specialist",
+   "org": "Organization to be added",
+   "desc": "Recognized for unique, professional brand identities, from logos and business cards to packaging and marketing materials.",
+   "icon": "hex"
+  },
+  {
+   "year": "20XX",
+   "title": "Creative Design Excellence",
+   "org": "Organization to be added",
+   "desc": "Appreciated for outstanding posters, restaurant menus, brochures, packaging designs and promotional graphics.",
+   "icon": "spk"
+  }
+ ],
+ "projects": [
+  {
+   "title": "Night Market",
+   "cat": "Poster Design",
+   "short": "Event poster with layered type and a neon palette.",
+   "desc": "Designed the full poster system for a three-night street food festival: a bold type-led main poster plus social and print variations.",
+   "featured": true,
+   "image": ""
+  },
+  {
+   "title": "Skyline Sessions",
+   "cat": "Poster Design",
+   "short": "Concert poster built around a bold illustrated skyline.",
+   "desc": "Created the key art and layout for a live music series, balancing illustration and readable lineup details.",
+   "featured": false,
+   "image": ""
+  },
+  {
+   "title": "Lumen Coffee",
+   "cat": "Logo Design",
+   "short": "Wordmark and symbol for a specialty coffee roaster.",
+   "desc": "Developed the logo, color palette and usage rules, delivered as a compact brand sheet.",
+   "featured": true,
+   "image": ""
+  },
+  {
+   "title": "Northwind",
+   "cat": "Logo Design",
+   "short": "Minimal monogram logo for an outdoor apparel label.",
+   "desc": "Explored a dozen directions with the client, then refined one monogram into a flexible mark.",
+   "featured": true,
+   "image": ""
+  },
+  {
+   "title": "Coastal Reel",
+   "cat": "Color Grading & Design",
+   "short": "Cinematic grade and title design for a travel short.",
+   "desc": "Graded the footage for a warm teal and orange look and designed matching title cards.",
+   "featured": false,
+   "image": ""
+  },
+  {
+   "title": "Frame One",
+   "cat": "Color Grading & Design",
+   "short": "Moody grade and cover art for a documentary teaser.",
+   "desc": "Built a consistent grade across scenes and designed the teaser cover to match.",
+   "featured": false,
+   "image": ""
+  },
+  {
+   "title": "Atlas Studio",
+   "cat": "Brochure Design",
+   "short": "Tri-fold brochure for an architecture studio.",
+   "desc": "Laid out the copy and photography into a clean tri-fold with a strong grid and generous white space.",
+   "featured": false,
+   "image": ""
+  },
+  {
+   "title": "Harbor Bank",
+   "cat": "Brochure Design",
+   "short": "Product brochure that makes finance feel clear.",
+   "desc": "Turned dense product details into scannable spreads with icons and simple data visuals.",
+   "featured": false,
+   "image": ""
+  },
+  {
+   "title": "Kiln & Co. Menu",
+   "cat": "Menu Design",
+   "short": "Dinner menu for a wood-fired kitchen.",
+   "desc": "Designed a one-page menu with clear hierarchy, so guests find dishes fast.",
+   "featured": true,
+   "image": ""
+  },
+  {
+   "title": "Saffron House",
+   "cat": "Menu Design",
+   "short": "Illustrated menu for a family restaurant.",
+   "desc": "Combined hand-drawn details with a tidy layout for both dine-in and takeaway menus.",
+   "featured": false,
+   "image": ""
+  },
+  {
+   "title": "Fable Tea",
+   "cat": "Packaging Design",
+   "short": "Box and label system for a premium tea range.",
+   "desc": "Designed a color-coded box and label set, from dieline artwork to final print files.",
+   "featured": true,
+   "image": ""
+  },
+  {
+   "title": "Orbit Snacks",
+   "cat": "Packaging Design",
+   "short": "Bright snack pouch with a bold flavor system.",
+   "desc": "Created the pouch artwork and flavor-coding system that makes each product recognizable on shelf.",
+   "featured": true,
+   "image": ""
+  }
+ ]
+}
